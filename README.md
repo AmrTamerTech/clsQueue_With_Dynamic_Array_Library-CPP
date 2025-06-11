@@ -116,7 +116,11 @@ Contributions are welcome! If you find a bug or have an idea for a feature, feel
    git clone https://github.com/your-username/clsMyQueueArr-CPP.git
    cd clsMyQueueArr-CPP
 ``
-2. 🛠 Include clsMyQueueArr.h and clsDynamicArray.h in your project.
+2. 🛠 Include in your project:
+```bash
+#include"clsMyQueueArr.h" 
+#include"clsDynamicArray.h"
+```
 3. 🧪 Compile and run using a C++ compiler:
 
 ```bash
