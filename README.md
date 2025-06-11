@@ -113,7 +113,7 @@ Contributions are welcome! If you find a bug or have an idea for a feature, feel
 
 1. 📥 Download or clone the repository:
    ```bash
-   git clone https://github.com/your-username/clsMyQueueArr-CPP.git
+   git clone https://github.com/your-username/clsQueue_With_Dynamic_Array_Library-CPP.git
    cd clsMyQueueArr-CPP
 ``
 2. 🛠 Include in your project:
